@@ -90,13 +90,12 @@ for i in range(0,9):
 
 ### Original Image
 <br>
-<br>
-<br>
-<br>
+![1](https://github.com/Dharshini-DS/Thresholding/assets/93427345/5000a9e9-b651-4e81-97e2-14b9f2fcf3e4)
 <br>
 
 ### Global Thresholding
 <br>
+
 <br>
 <br>
 <br>
