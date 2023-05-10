@@ -39,10 +39,10 @@ Display the results.
 <br>
 ## Program
 
-
+```
 Developed by: DHARSHINI D.S
-REG_NO:212221230022
-
+Reg no:212221230022
+```
 
 ```
 # Load the necessary packages
@@ -90,7 +90,8 @@ for i in range(0,9):
 
 ### Original Image
 <br>
-![1](https://github.com/Dharshini-DS/Thresholding/assets/93427345/03fc2cd9-7313-4451-84ad-61d1f5449275)
+https://github.com/Dharshini-DS/Thresholding/blob/main/1.png
+![1](https://github.com/Dharshini-DS/Thresholding/blob/main/1.png)
 <br>
 
 ### Global Thresholding
