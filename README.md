@@ -90,29 +90,32 @@ for i in range(0,9):
 
 ### Original Image
 <br>
-![1](https://github.com/Dharshini-DS/Thresholding/assets/93427345/5000a9e9-b651-4e81-97e2-14b9f2fcf3e4)
+![1](https://github.com/Dharshini-DS/Thresholding/assets/93427345/03fc2cd9-7313-4451-84ad-61d1f5449275)
 <br>
 
 ### Global Thresholding
 <br>
-
+![2](https://github.com/Dharshini-DS/Thresholding/assets/93427345/27b96f8b-a8e6-4e3f-9dda-d93215bf457a)
 <br>
+![3](https://github.com/Dharshini-DS/Thresholding/assets/93427345/391f25a3-d970-410d-9554-07a2554145ec)
 <br>
+![4](https://github.com/Dharshini-DS/Thresholding/assets/93427345/f956395f-80aa-43b8-a5b2-a750baa9ac7b)
 <br>
+![5](https://github.com/Dharshini-DS/Thresholding/assets/93427345/45a46e96-6e99-40fc-ad95-2a9af72989c1)
+<br>
+![6](https://github.com/Dharshini-DS/Thresholding/assets/93427345/903b770a-2899-44e1-8ea2-e3e2af03783b)
 <br>
 
 ### Adaptive Thresholding
 <br>
+![7](https://github.com/Dharshini-DS/Thresholding/assets/93427345/a3ae3800-0c32-4d48-8ae8-04c7227fa164)
 <br>
-<br>
-<br>
+![8](https://github.com/Dharshini-DS/Thresholding/assets/93427345/e5447a09-bf46-42cf-a010-5069a5a8fc09)
 <br>
 
 ### Optimum Global Thesholding using Otsu's Method
 <br>
-<br>
-<br>
-<br>
+![9](https://github.com/Dharshini-DS/Thresholding/assets/93427345/caadae35-4eb0-4c08-8d06-30cee505eeff)
 <br>
 
 
