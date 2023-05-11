@@ -89,36 +89,30 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-<br>
-https://github.com/Dharshini-DS/Thresholding/blob/main/1.png
-![1](https://github.com/Dharshini-DS/Thresholding/blob/main/1.png)
-<br>
+
+![output](./1.png)
 
 ### Global Thresholding
-<br>
-![2](https://github.com/Dharshini-DS/Thresholding/assets/93427345/27b96f8b-a8e6-4e3f-9dda-d93215bf457a)
-<br>
-![3](https://github.com/Dharshini-DS/Thresholding/assets/93427345/391f25a3-d970-410d-9554-07a2554145ec)
-<br>
-![4](https://github.com/Dharshini-DS/Thresholding/assets/93427345/f956395f-80aa-43b8-a5b2-a750baa9ac7b)
-<br>
-![5](https://github.com/Dharshini-DS/Thresholding/assets/93427345/45a46e96-6e99-40fc-ad95-2a9af72989c1)
-<br>
-![6](https://github.com/Dharshini-DS/Thresholding/assets/93427345/903b770a-2899-44e1-8ea2-e3e2af03783b)
-<br>
+
+![output](./2.png)
+
+![output](./3.png)
+
+![output](./4.png)
+
+![output](./5.png)
+
+![output](./6.png)
 
 ### Adaptive Thresholding
 <br>
-![7](https://github.com/Dharshini-DS/Thresholding/assets/93427345/a3ae3800-0c32-4d48-8ae8-04c7227fa164)
-<br>
-![8](https://github.com/Dharshini-DS/Thresholding/assets/93427345/e5447a09-bf46-42cf-a010-5069a5a8fc09)
-<br>
+![output](./7.png)
+
+![output](./8.png)
 
 ### Optimum Global Thesholding using Otsu's Method
-<br>
-![9](https://github.com/Dharshini-DS/Thresholding/assets/93427345/caadae35-4eb0-4c08-8d06-30cee505eeff)
-<br>
 
+![output](./9.png)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
