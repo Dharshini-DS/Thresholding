@@ -105,7 +105,7 @@ for i in range(0,9):
 ![output](./6.png)
 
 ### Adaptive Thresholding
-<br>
+
 ![output](./7.png)
 
 ![output](./8.png)
